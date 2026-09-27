@@ -3,3 +3,6 @@ node_modules/
 qa/
 audio/tmp/
 audio/stem_*.wav
+audio/episode*/**/*.wav
+audio/episode*/*.wav
+audio/episode*/tmp/

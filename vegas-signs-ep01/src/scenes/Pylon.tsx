@@ -95,7 +95,8 @@ export const Pylon: React.FC = () => {
       </Camera>
       <Counter to={180} start={s(0.15)} dur={s(3.1)} label="HEIGHT" suffix="FT" x={96} y={200} size={96} fade={[s(3.9), s(4.3)]} />
       {/* screen-space elevator callout */}
-      <div style={{ position: "absolute", left: 1110, top: carScreenY - 14, opacity: xray * lerp(f, [s(7.1), s(7.5)], [1, 0]) }}>
+      <div style={{ position: "absolute", left: 1110, top: Math.max(215, carScreenY - 14), // stay clear of the top HUD band
+        opacity: xray * lerp(f, [s(7.1), s(7.5)], [1, 0]) }}>
         <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
           <div style={{ width: 90, height: 1.5, background: C.cyan }} />
           <div style={{ fontFamily: FONT.mono, fontSize: 18, letterSpacing: "0.26em", color: C.cyan }}>SERVICE ELEVATOR</div>

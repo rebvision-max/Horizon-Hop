@@ -1,0 +1,12 @@
+Voice: en-us-ryan-high.onnx
+Total: 9.48 min (568.6s)  |  -17.5 LUFS
+
+ch01 Cold Open                         0.69 min   (script target 0:00–0:50)
+  ch02  118.96s  [SLOT 4s: your line goes here]
+ch02 A Railroad Town In The Dark       1.33 min   (script target 0:50–2:15)
+ch03 Glitter Gulch                     1.39 min   (script target 2:15–3:55)
+ch04 The Strip Goes Big                1.76 min   (script target 3:55–6:00)
+ch05 Learning From Las Vegas           0.72 min   (script target 6:00–6:55)
+ch06 The Building Becomes The Sign     1.49 min   (script target 6:55–8:30)
+ch07 Where Signs Go To Die             0.85 min   (script target 8:30–9:30)
+ch08 Hello, World                      1.01 min   (script target 9:30–10:30)

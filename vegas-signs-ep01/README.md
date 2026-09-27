@@ -25,3 +25,12 @@ Needs ffmpeg, Piper at /opt/tts (binary + en-us-ryan-high.onnx), and `pip instal
 ## Swapping in the real VO
 Drop Jeff's read at `audio/vo.wav`, update the `start` times in `tools/vo_lines.json` to match, and
 rerun align + audio. make_audio.py prefers `audio/vo.wav` over the scratch file.
+
+## Full-episode VO (all 8 chapters)
+```
+python3 tools/episode_vo_text.py                     # script.md -> tools/episode_vo.json (numbers spelled out, names respelled)
+python3 tools/make_episode_vo.py --model /opt/tts/<voice>.onnx [--speaker N] --out audio/episode
+```
+Writes chNN.wav per chapter, episode_vo_full.wav, episode_vo.srt and timing.txt. The chapter 02
+"your voice" line is a 4-second silent slot. `audio/episode_scratch_ryan/` is a timing pass with
+the non-commercial Ryan voice, for pacing review only.

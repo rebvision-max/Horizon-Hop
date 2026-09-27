@@ -90,7 +90,7 @@ def crackle(dur, density=60, lvl=0.35):
     for _ in range(int(density * dur)):
         i = rng.integers(0, n - 400); L = rng.integers(40, 400)
         x[i:i + L] += rng.standard_normal(L) * np.exp(-np.arange(L) / (L / 4))
-    return hp(x, 1500) * lvl
+    return lp(hp(x, 1500), 7000, 4) * lvl * 0.6  # band-limited: raw clicks overshoot badly in AAC
 def whoosh(dur=0.7, lvl=0.18):
     n = int(dur * SR); x = rng.standard_normal(n); fc = np.linspace(300, 4000, n)
     y = np.zeros(n); blk = 1024
@@ -192,7 +192,7 @@ def widen(x, ms=9):
 mix = widen(mix_mono_music, 11) * 0.9 + widen(sfx, 4) * 0.8 + np.stack([v, v], 1)
 
 # master: loudness to -14 LUFS, then lookahead limiter at -1 dBTP (4x oversampled peak detect)
-def limit(x, ceil_db=-1.2):
+def limit(x, ceil_db=-2.0):
     ceil = 10 ** (ceil_db / 20)
     over = np.abs(signal.resample_poly(x, 4, 1, axis=0)).max(1)
     pk = over.reshape(-1, 4).max(1)[: len(x)]

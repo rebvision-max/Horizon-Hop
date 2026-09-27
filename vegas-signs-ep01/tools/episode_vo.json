@@ -1,0 +1,328 @@
+[
+ {
+  "id": "ch01",
+  "title": "Cold Open",
+  "target": [
+   "0:00",
+   "0:50"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "Most cities put up signs to tell you where things are.",
+    "say": "Most cities put up signs to tell you where things are."
+   },
+   {
+    "kind": "vo",
+    "cap": "Las Vegas did it backwards. It put up the signs first, and the city grew in behind them.",
+    "say": "Las Vegas did it backwards. It put up the signs first, and the city grew in behind them."
+   },
+   {
+    "kind": "vo",
+    "cap": "In 1932, the biggest sign in town was a neon beer stein over a downtown gambling hall.",
+    "say": "In nineteen thirty-two, the biggest sign in town was a neon beer stein over a downtown gambling hall."
+   },
+   {
+    "kind": "vo",
+    "cap": "Ninety-one years later, the biggest sign in town *was* the building: a sphere wrapped in 580,000 square feet of LEDs.",
+    "say": "Ninety-one years later, the biggest sign in town was the building, a sphere wrapped in five hundred and eighty thousand square feet of L E Ds."
+   },
+   {
+    "kind": "vo",
+    "cap": "In between: a talking cowboy, a sign so tall it had an elevator inside it, a design nobody bothered to copyright, and a graveyard where the city's most famous lights go when they die.",
+    "say": "In between, a talking cowboy, a sign so tall it had an elevator inside it, a design nobody bothered to copyright, and a graveyard where the city's most famous lights go when they die."
+   },
+   {
+    "kind": "vo",
+    "cap": "This is the story of how Las Vegas built itself out of light.",
+    "say": "This is the story of how Las Vegas built itself out of light."
+   }
+  ]
+ },
+ {
+  "id": "ch02",
+  "title": "A Railroad Town In The Dark",
+  "target": [
+   "0:50",
+   "2:15"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "Las Vegas started as a railroad stop. In May of 1905, the railroad auctioned off lots in the middle of the Mojave, and a dusty little town took shape around Fremont Street.",
+    "say": "Las Vegas started as a railroad stop. In May of nineteen oh five, the railroad auctioned off lots in the middle of the Mo-hah-vee, and a dusty little town took shape around Fremont Street."
+   },
+   {
+    "kind": "vo",
+    "cap": "For twenty-five years, not much happened. Then, in 1931, two things changed everything, weeks apart. Nevada legalized wide-open gambling. And the federal government started building Boulder Dam down the road. That meant thousands of workers, and eventually more electricity than a small desert town could ever use.",
+    "say": "For twenty-five years, not much happened. Then, in nineteen thirty-one, two things changed everything, weeks apart. Nevada legalized wide-open gambling. And the federal government started building Boulder Dam down the road. That meant thousands of workers, and eventually more electricity than a small desert town could ever use."
+   },
+   {
+    "kind": "vo",
+    "cap": "A sign painter from Ogden, Utah noticed. Thomas Young had opened his own sign shop in 1920 with three hundred dollars borrowed from his father. Passing through Las Vegas in 1931, he figured the new gambling halls were going to need signs. Big ones.",
+    "say": "A sign painter from Ogden, Utah noticed. Thomas Young had opened his own sign shop in nineteen twenty with three hundred dollars borrowed from his father. Passing through Las Vegas in nineteen thirty-one, he figured the new gambling halls were going to need signs. Big ones."
+   },
+   {
+    "kind": "vo",
+    "cap": "His Young Electric Sign Company, YESCO, started working in Las Vegas in 1932. One of its first clients was the Boulder Club on Fremont Street. Its sign showed a stein of beer, pouring in light.",
+    "say": "His Young Electric Sign Company, Yes-co, started working in Las Vegas in nineteen thirty-two. One of its first clients was the Boulder Club on Fremont Street. Its sign showed a stein of beer, pouring in light."
+   },
+   {
+    "kind": "vo",
+    "cap": "And Young made a business decision that mattered as much as any design. Most casino owners were running on a shoestring. So instead of selling them signs, he leased them. The club got the sign. YESCO kept the steel.",
+    "say": "And Young made a business decision that mattered as much as any design. Most casino owners were running on a shoestring. So instead of selling them signs, he leased them. The club got the sign. Yes-co kept the steel."
+   },
+   {
+    "kind": "slot",
+    "cap": "**[OPTIONAL — your voice, 1–2 sentences]** A line from your own 27 years in the business about how sign deals work in this town. Only include it if it's true in your experience. It's the one thing no other Vegas history channel can say.",
+    "say": "",
+    "gap": 4.0
+   }
+  ]
+ },
+ {
+  "id": "ch03",
+  "title": "Glitter Gulch",
+  "target": [
+   "2:15",
+   "3:55"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "After World War Two, Fremont Street turned into an arms race. The Pioneer Club, the Las Vegas Club, the Golden Nugget. Every owner wanted something bigger and brighter than the club next door. And the sign makers were happy to oblige.",
+    "say": "After World War Two, Fremont Street turned into an arms race. The Pioneer Club, the Las Vegas Club, the Golden Nugget. Every owner wanted something bigger and brighter than the club next door. And the sign makers were happy to oblige."
+   },
+   {
+    "kind": "vo",
+    "cap": "The street got a nickname: Glitter Gulch.",
+    "say": "The street got a nickname, Glitter Gulch."
+   },
+   {
+    "kind": "vo",
+    "cap": "Its most famous resident showed up in 1951. Years earlier, the Chamber of Commerce had hired a New York ad agency to give the city a mascot: a friendly, winking cowboy. The Pioneer Club had YESCO build him in neon, forty feet tall.",
+    "say": "Its most famous resident showed up in nineteen fifty-one. Years earlier, the Chamber of Commerce had hired a New York ad agency to give the city a mascot, a friendly, winking cowboy. The Pioneer Club had Yes-co build him in neon, forty feet tall."
+   },
+   {
+    "kind": "vo",
+    "cap": "They called him Vegas Vic. His arm waved. His cigarette moved. And every fifteen minutes, a speaker boomed out: *\"Howdy, pardner!\"*",
+    "say": "They called him Vegas Vic. His arm waved. His cigarette moved. And every fifteen minutes, a speaker boomed out, \"Howdy, pardner!\""
+   },
+   {
+    "kind": "vo",
+    "cap": "That same year, the government started testing atomic bombs northwest of town. One of the most famous photos of the era shows Vegas Vic in the foreground, and a mushroom cloud rising behind the mountains.",
+    "say": "That same year, the government started testing atomic bombs northwest of town. One of the most famous photos of the era shows Vegas Vic in the foreground, and a mushroom cloud rising behind the mountains."
+   },
+   {
+    "kind": "vo",
+    "cap": "Vic kept talking until the late 1960s. The legend goes that actor Lee Marvin, in town filming a western, complained the cowboy was keeping him up at night, and Vic went quiet.",
+    "say": "Vic kept talking until the late nineteen sixties. The legend goes that actor Lee Marvin, in town filming a western, complained the cowboy was keeping him up at night, and Vic went quiet."
+   },
+   {
+    "kind": "vo",
+    "cap": "By the end of the fifties, signs weren't just hanging *on* buildings anymore. In 1959, YESCO finished the Mint's sign downtown, a sweeping arch of light that rose ninety-six feet over Fremont Street. The sign had become the architecture.",
+    "say": "By the end of the fifties, signs weren't just hanging on buildings anymore. In nineteen fifty-nine, Yes-co finished the Mint's sign downtown, a sweeping arch of light that rose ninety-six feet over Fremont Street. The sign had become the architecture."
+   }
+  ]
+ },
+ {
+  "id": "ch04",
+  "title": "The Strip Goes Big",
+  "target": [
+   "3:55",
+   "6:00"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "Meanwhile, a few miles south, a different Las Vegas was growing along Highway 91, the road in from Los Angeles.",
+    "say": "Meanwhile, a few miles south, a different Las Vegas was growing along Highway ninety-one, the road in from Los Angeles."
+   },
+   {
+    "kind": "vo",
+    "cap": "Downtown, people walked past the signs. On the Strip, they *drove* past them, at fifty miles an hour, from half a mile away. So the signs had to get bigger. Much bigger.",
+    "say": "Downtown, people walked past the signs. On the Strip, they drove past them, at fifty miles an hour, from half a mile away. So the signs had to get bigger. Much bigger."
+   },
+   {
+    "kind": "vo",
+    "cap": "In 1952, the Sands put its name in flowing neon script on a fifty-six-foot tower.",
+    "say": "In nineteen fifty-two, the Sands put its name in flowing neon script on a fifty-six-foot tower."
+   },
+   {
+    "kind": "vo",
+    "cap": "In 1958, the Stardust opened as the largest hotel in the world. YESCO designer Kermit Wayne wrapped its entire front in a space-age facade: 217 feet wide, eleven thousand light bulbs, more than a mile of neon, with planets and stars against a painted lunar sky. The Soviets had just launched Sputnik. America was obsessed with space. The Stardust sold it back to them, one flashing bulb at a time.",
+    "say": "In nineteen fifty-eight, the Stardust opened as the largest hotel in the world. Yes-co designer Kermit Wayne wrapped its entire front in a space-age facade, two hundred and seventeen feet wide, eleven thousand light bulbs, more than a mile of neon, with planets and stars against a painted lunar sky. The Soviets had just launched Sputnik. America was obsessed with space. The Stardust sold it back to them, one flashing bulb at a time."
+   },
+   {
+    "kind": "vo",
+    "cap": "A year later, at the south end of the Strip, a designer named Betty Willis drew a diamond-shaped sign that said *Welcome to Fabulous Las Vegas*. And she never copyrighted it. That one gets its own film.",
+    "say": "A year later, at the south end of the Strip, a designer named Betty Willis drew a diamond-shaped sign that said Welcome to Fabulous Las Vegas. And she never copyrighted it. That one gets its own film."
+   },
+   {
+    "kind": "vo",
+    "cap": "Then the sign wars really started. In 1964, the Dunes unveiled a pylon designed by Lee Klay of Federal Sign. It stood 180 feet tall, the largest electric sign in the world. It was so tall that maintenance crews rode a small elevator inside one of its legs to reach the top.",
+    "say": "Then the sign wars really started. In nineteen sixty-four, the Dunes unveiled a pylon designed by Lee Klay of Federal Sign. It stood one hundred and eighty feet tall, the largest electric sign in the world. It was so tall that maintenance crews rode a small elevator inside one of its legs to reach the top."
+   },
+   {
+    "kind": "vo",
+    "cap": "The Stardust answered in 1968 with a new roadside tower by Paul Miller of rival sign company Ad-Art: 188 feet of twinkling stars climbing into the desert sky.",
+    "say": "The Stardust answered in nineteen sixty-eight with a new roadside tower by Paul Miller of rival sign company Ad Art, one hundred and eighty-eight feet of twinkling stars climbing into the desert sky."
+   },
+   {
+    "kind": "vo",
+    "cap": "Three companies, YESCO, Ad-Art, and Federal, were building the skyline of a city, one casino at a time.",
+    "say": "Three companies, Yes-co, Ad Art, and Federal, were building the skyline of a city, one casino at a time."
+   }
+  ]
+ },
+ {
+  "id": "ch05",
+  "title": "Learning From Las Vegas",
+  "target": [
+   "6:00",
+   "6:55"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "In 1968, architects Robert Venturi, Denise Scott Brown, and Steven Izenour brought a group of Yale students to the Strip. Serious architects weren't supposed to take Las Vegas seriously. They did.",
+    "say": "In nineteen sixty-eight, architects Robert Venturi, Denise Scott Brown, and Steven Eye-zen-our brought a group of Yale students to the Strip. Serious architects weren't supposed to take Las Vegas seriously. They did."
+   },
+   {
+    "kind": "vo",
+    "cap": "Their 1972 book, *Learning from Las Vegas*, made an argument that rattled the profession: on the Strip, the sign mattered more than the building. The casinos were plain boxes, what they called \"decorated sheds.\" The real architecture was out by the highway, in steel and neon.",
+    "say": "Their nineteen seventy-two book, Learning from Las Vegas, made an argument that rattled the profession, on the Strip, the sign mattered more than the building. The casinos were plain boxes, what they called \"decorated sheds.\" The real architecture was out by the highway, in steel and neon."
+   },
+   {
+    "kind": "vo",
+    "cap": "Buildings like the Stardust, a plain structure behind a wall of light, were exactly what they meant.",
+    "say": "Buildings like the Stardust, a plain structure behind a wall of light, were exactly what they meant."
+   },
+   {
+    "kind": "vo",
+    "cap": "For the first time, the people who design cities were studying what Las Vegas sign builders had figured out on their own.",
+    "say": "For the first time, the people who design cities were studying what Las Vegas sign builders had figured out on their own."
+   }
+  ]
+ },
+ {
+  "id": "ch06",
+  "title": "The Building Becomes The Sign",
+  "target": [
+   "6:55",
+   "8:30"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "Then, in November of 1989, Steve Wynn opened the Mirage. Out front, instead of a giant pylon, there was a volcano. It erupted every night.",
+    "say": "Then, in November of nineteen eighty-nine, Steve Wynn opened the Mirage. Out front, instead of a giant pylon, there was a volcano. It erupted every night."
+   },
+   {
+    "kind": "vo",
+    "cap": "The message was clear: the building itself was the show. Pirate ships. Pyramids. A castle. The skyline of New York. The megaresorts didn't need a 180-foot sign to tell you where they were. You couldn't miss them.",
+    "say": "The message was clear, the building itself was the show. Pirate ships. Pyramids. A castle. The skyline of New York. The mega-resorts didn't need a hundred and eighty-foot sign to tell you where they were. You couldn't miss them."
+   },
+   {
+    "kind": "vo",
+    "cap": "And the old giants started coming down. The Dunes was imploded in 1993, a televised spectacle that cleared the way for the Bellagio. The Sands came down in 1996. The Stardust followed in 2007.",
+    "say": "And the old giants started coming down. The Dunes was imploded in nineteen ninety-three, a televised spectacle that cleared the way for the Bellagio. The Sands came down in nineteen ninety-six. The Stardust followed in two thousand and seven."
+   },
+   {
+    "kind": "vo",
+    "cap": "When the Sands closed, there was nowhere to put its massive sign. So it was scrapped. That loss pushed the city to get serious about saving its neon.",
+    "say": "When the Sands closed, there was nowhere to put its massive sign. So it was scrapped. That loss pushed the city to get serious about saving its neon."
+   },
+   {
+    "kind": "vo",
+    "cap": "Downtown had its own crisis. The crowds had moved to the Strip. So in 1994, the city did something drastic: it closed Fremont Street to cars and built a roof over it. The Fremont Street Experience opened in December of 1995, a canopy more than a quarter mile long covered in 2.1 million light bulbs. YESCO built it.",
+    "say": "Downtown had its own crisis. The crowds had moved to the Strip. So in nineteen ninety-four, the city did something drastic, it closed Fremont Street to cars and built a roof over it. The Fremont Street Experience opened in December of nineteen ninety-five, a canopy more than a quarter mile long covered in two point one million light bulbs. Yes-co built it."
+   },
+   {
+    "kind": "vo",
+    "cap": "In 2004, the bulbs were replaced with more than twelve million LEDs. In 2019, a new screen went in with forty-nine million, bright enough to see in daylight.",
+    "say": "In two thousand and four, the bulbs were replaced with more than twelve million L E Ds. In twenty nineteen, a new screen went in with forty-nine million, bright enough to see in daylight."
+   },
+   {
+    "kind": "vo",
+    "cap": "Neon hadn't died. But it wasn't the future anymore.",
+    "say": "Neon hadn't died. But it wasn't the future anymore."
+   }
+  ]
+ },
+ {
+  "id": "ch07",
+  "title": "Where Signs Go To Die",
+  "target": [
+   "8:30",
+   "9:30"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "For decades, when a Las Vegas sign came down, it often ended up in YESCO's storage yard, rusting in the sun: a graveyard of letters and arrows and stars. Locals called it the boneyard.",
+    "say": "For decades, when a Las Vegas sign came down, it often ended up in Yes-co's storage yard, rusting in the sun, a graveyard of letters and arrows and stars. Locals called it the boneyard."
+   },
+   {
+    "kind": "vo",
+    "cap": "In 1996, the Neon Museum was founded to save what was left. Its first restoration was the Hacienda's horse and rider, a neon cowboy on a palomino. It was relit that November at the corner of Fremont Street and Las Vegas Boulevard.",
+    "say": "In nineteen ninety-six, the Neon Museum was founded to save what was left. Its first restoration was the Hacienda's horse and rider, a neon cowboy on a palomino. It was relit that November at the corner of Fremont Street and Las Vegas Boulevard."
+   },
+   {
+    "kind": "vo",
+    "cap": "In 2012, the museum opened to the public, with its visitor center inside the lobby of the old La Concha Motel. That seashell-shaped building was designed by architect Paul Revere Williams, cut into pieces, and moved up the Boulevard.",
+    "say": "In twenty twelve, the museum opened to the public, with its visitor center inside the lobby of the old La Conn-cha Motel. That seashell-shaped building was designed by architect Paul Revere Williams, cut into pieces, and moved up the Boulevard."
+   },
+   {
+    "kind": "vo",
+    "cap": "Today, more than 250 signs rest there. Pieces of the Stardust. The Desert Inn. The Flamingo.",
+    "say": "Today, more than two hundred and fifty signs rest there. Pieces of the Stardust. The Desert Inn. The Flamingo."
+   }
+  ]
+ },
+ {
+  "id": "ch08",
+  "title": "Hello, World",
+  "target": [
+   "9:30",
+   "10:30"
+  ],
+  "paras": [
+   {
+    "kind": "vo",
+    "cap": "On the Fourth of July, 2023, a new sign lit up the Las Vegas skyline. Its first words were: *Hello, World.*",
+    "say": "On the Fourth of July, twenty twenty-three, a new sign lit up the Las Vegas skyline. Its first words were, Hello, World."
+   },
+   {
+    "kind": "vo",
+    "cap": "The Sphere is 366 feet tall. Its skin, the Exosphere, is covered in about 1.2 million LED pucks, each packed with 48 diodes. That's 580,000 square feet: the largest LED screen on Earth.",
+    "say": "The Sphere is three hundred and sixty-six feet tall. Its skin, the Exo-sphere, is covered in about one point two million L E D pucks, each packed with forty-eight diodes. That's five hundred and eighty thousand square feet, the largest L E D screen on Earth."
+   },
+   {
+    "kind": "vo",
+    "cap": "It's a long way from a neon beer stein on Fremont Street.",
+    "say": "It's a long way from a neon beer stein on Fremont Street."
+   },
+   {
+    "kind": "vo",
+    "cap": "But it's the same idea. In 1931, Tom Young looked at a dusty railroad town and saw a simple problem: how do you get a stranger to stop?",
+    "say": "But it's the same idea. In nineteen thirty-one, Tom Young looked at a dusty railroad town and saw a simple problem, how do you get a stranger to stop?"
+   },
+   {
+    "kind": "vo",
+    "cap": "Every generation in Las Vegas has solved it differently. Neon tubing. Flashing bulbs. A 180-foot tower. A volcano. A building that *is* a screen.",
+    "say": "Every generation in Las Vegas has solved it differently. Neon tubing. Flashing bulbs. A hundred and eighty-foot tower. A volcano. A building that is a screen."
+   },
+   {
+    "kind": "vo",
+    "cap": "The answer keeps changing. The question never has.",
+    "say": "The answer keeps changing. The question never has."
+   },
+   {
+    "kind": "cta",
+    "cap": "Next time: the one sign everybody knows, and the woman who gave it away. Subscribe so you don't miss it.",
+    "say": "Next time, the one sign everybody knows, and the woman who gave it away. Subscribe so you don't miss it."
+   }
+  ]
+ }
+]
