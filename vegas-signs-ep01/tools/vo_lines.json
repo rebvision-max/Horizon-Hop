@@ -1,0 +1,79 @@
+[
+ {
+  "id": "L01",
+  "beat": "cold",
+  "start": 1.3,
+  "say": "Most cities put up signs to tell you where things are.",
+  "cap": "Most cities put up signs to tell you where things are."
+ },
+ {
+  "id": "L02",
+  "beat": "cold",
+  "start": 4.55,
+  "say": "Las Vegas did it backwards.",
+  "cap": "Las Vegas did it backwards."
+ },
+ {
+  "id": "L03",
+  "beat": "rail",
+  "start": 6.85,
+  "say": "In May of nineteen oh five, the railroad auctioned off lots in the middle of the Mojave.",
+  "cap": "In May of 1905, the railroad auctioned off lots in the middle of the Mojave."
+ },
+ {
+  "id": "L04",
+  "beat": "stein",
+  "start": 13.2,
+  "say": "By nineteen thirty-two, the biggest sign in town was a neon beer stein, pouring light over Fremont Street.",
+  "cap": "By 1932, the biggest sign in town was a neon beer stein, pouring light over Fremont Street."
+ },
+ {
+  "id": "L05",
+  "beat": "stardust",
+  "start": 20.4,
+  "say": "Then came the sign wars. The Stardust wrapped its whole front in eleven thousand bulbs.",
+  "cap": "Then came the sign wars. The Stardust wrapped its whole front in 11,000 bulbs."
+ },
+ {
+  "id": "L06",
+  "beat": "pylon",
+  "start": 28.2,
+  "say": "The Dunes answered with a pylon a hundred and eighty feet tall. Crews rode an elevator up inside its leg.",
+  "cap": "The Dunes answered with a pylon 180 feet tall. Crews rode an elevator up inside its leg."
+ },
+ {
+  "id": "L07",
+  "beat": "implode",
+  "start": 37.0,
+  "say": "Then, one by one, the giants came down.",
+  "cap": "Then, one by one, the giants came down."
+ },
+ {
+  "id": "L08",
+  "beat": "boneyard",
+  "start": 42.6,
+  "say": "The lucky ones went to the boneyard.",
+  "cap": "The lucky ones went to the boneyard."
+ },
+ {
+  "id": "L09",
+  "beat": "sphere",
+  "start": 47.8,
+  "say": "In twenty twenty-three, the biggest sign in town became the building. Its first words:",
+  "cap": "In 2023, the biggest sign in town became the building. Its first words:"
+ },
+ {
+  "id": "L10",
+  "beat": "sphere",
+  "start": 54.0,
+  "say": "Hello, World.",
+  "cap": "“Hello, World.”"
+ },
+ {
+  "id": "L11",
+  "beat": "title",
+  "start": 56.1,
+  "say": "This is how Las Vegas built itself out of light.",
+  "cap": "This is how Las Vegas built itself out of light."
+ }
+]

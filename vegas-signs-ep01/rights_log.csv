@@ -1,0 +1,16 @@
+asset_id,chapter,description,source_url,tag,license,attribution_text,downloaded_on
+AE-001,01 cold open,Neon arrow + "THIS WAY" tube sign with brick wall and dust motes (src/scenes/ColdOpen.tsx),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-002,02 railroad,Survey-map animation: rail line / pin / townsite lots / train headlight (src/scenes/Rail.tsx),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-003,02 railroad,Illustrated reconstruction of Boulder Club beer-stein sign (src/scenes/Stein.tsx); not traced from any photo,generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-004,04 strip,Stardust facade rebuild: bulbs / planets / starbursts / 217 FT callout (src/scenes/Stardust.tsx); plain-text name, no logo,generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-005,04 strip,Dunes pylon tilt-up + elevator cutaway (src/scenes/Pylon.tsx); plain-text name, no logo,generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-006,06 implosions,Recreated tower implosions with dust sim (src/scenes/Implode.tsx); no news footage,generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-007,07 boneyard,Illustrated boneyard at dusk: letter/arrow/starburst silhouettes (src/scenes/Boneyard.tsx),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-008,08 hello world,Dot-matrix Exosphere with "HELLO, WORLD" (src/scenes/Sphere.tsx),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-009,title,Title card BUILT OUT OF LIGHT. (src/scenes/Title.tsx),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+AE-010,all,Film grain / halftone / light leaks / HUD / captions / pixel-window skylines (src/components),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+MUS-001,all,Original synthesized score bed (tools/make_audio.py),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+SFX-001,all,Synthesized SFX: neon buzz/crackle / whooshes / horn / relays / motor / implosion booms / wind / chimes (tools/make_audio.py),generated in-repo,[AE],Original work (VSI),none required,2026-09-27
+VO-SCRATCH-001,all,SCRATCH VO ONLY: Piper TTS voice en-us-ryan-high. Replace with Jeff's VO before publishing.,https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-ryan-high.tar.gz,[SCRATCH],CC BY-NC-SA 4.0 (RyanSpeech dataset) - NON-COMMERCIAL: not usable on a monetized upload,"Voice: Piper en-us-ryan-high (RyanSpeech, CC BY-NC-SA 4.0)",2026-09-27
+TOOL-001,all,Piper TTS engine binary 2023.11.14-2 (tool; output not a licensed asset),https://github.com/rhasspy/piper/releases/download/2023.11.14-2/piper_linux_x86_64.tar.gz,[TOOL],MIT,n/a,2026-09-27
+FONT-001,all,Barlow Condensed / Barlow / JetBrains Mono (via @fontsource npm),https://www.npmjs.com/package/@fontsource/barlow-condensed,[TOOL],SIL Open Font License 1.1,n/a,2026-09-27
